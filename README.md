@@ -1,2 +1,2 @@
-# First_React_App
-Made using JavaScript Mastery
+# first_app
+ First React App
